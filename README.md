@@ -1,6 +1,6 @@
 ## 📄 README.md
 
-```markdown
+
 # 📊 Avazu CTR Marketing Dashboard
 
 An interactive **Streamlit dashboard** for analyzing **Click-Through Rate (CTR)** performance across devices, apps, and sites using a sample of the **Avazu dataset**.
