@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Keep only these
+!Dash.py
+!50krecords.csv
+!requirements.txt
