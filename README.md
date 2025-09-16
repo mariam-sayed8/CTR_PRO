@@ -52,7 +52,7 @@ CTR\_PRO/
    ```bash
    git clone https://github.com/YOUR_USERNAME/CTR_PRO.git
    cd CTR_PRO
-````
+
 
 2. Create a virtual environment (optional but recommended):
 
